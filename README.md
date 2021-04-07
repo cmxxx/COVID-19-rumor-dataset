@@ -17,7 +17,12 @@
   - It is used to collect data from website www.snopes.com and qc.wa.news.cn (departed)
 
 # Data Analysis  
-- PowerLaw Analysis includes the statistical analysis of rumor popularity data.  
+- PowerLaw Analysis includes the statistical analysis of rumor popularity data. 
+
+# Deep Learning Models in Rumor Classification
+- Sentiment analysis: https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing#scrollTo=GzCJKcoWT1aa. 
+- Stance classification: https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing#scrollTo=GzCJKcoWT1aa. 
+- Veracity prediction: https://colab.research.google.com/drive/1qtt0X9a7I9vBZPoZ-PzyhDuF5L_G3thj?usp=sharing. 
 
 
 # Data
