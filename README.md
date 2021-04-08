@@ -19,6 +19,9 @@
 # Data Analysis  
 - PowerLaw Analysis includes the statistical analysis of rumor popularity data. 
 
+# Pre-processed Data for Deep Learning Tasks
+- https://drive.google.com/drive/folders/1jpnyHw1_XWR7lZTSb86AYWFsNC0bNEwO?usp=sharing. 
+
 # Deep Learning Models in Rumor Classification
 - Sentiment analysis: https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing#scrollTo=GzCJKcoWT1aa. 
 - Stance classification: https://colab.research.google.com/drive/1ItGmEvumyOesXeB2dV7w5cnjRW9fTAKL?usp=sharing.  
