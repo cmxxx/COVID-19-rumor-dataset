@@ -21,7 +21,7 @@
 
 # Deep Learning Models in Rumor Classification
 - Sentiment analysis: https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing#scrollTo=GzCJKcoWT1aa. 
-- Stance classification: https://colab.research.google.com/drive/1CyGtXPSol_Ayt_WR7zsq60M2Q5kDUofd?usp=sharing#scrollTo=GzCJKcoWT1aa. 
+- Stance classification: https://colab.research.google.com/drive/1ItGmEvumyOesXeB2dV7w5cnjRW9fTAKL?usp=sharing.  
 - Veracity prediction: https://colab.research.google.com/drive/1qtt0X9a7I9vBZPoZ-PzyhDuF5L_G3thj?usp=sharing. 
 
 
